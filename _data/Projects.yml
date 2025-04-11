@@ -2,15 +2,22 @@ subject: Projects
 listing-order: 4
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: <a href="https://github.com/nvnatasha/TheTeaFE">The Tea (front-end)</a> <a href="https://github.com/nvnatasha/TheTea">The Tea (backend-end)</a>
-    description: 
-      - Admin Portal for Managing Tea Subscriptions
-      - A fullstack web application that enables administrators to efficiently manage customers, subscriptions, and tea offerings for a tea subscription service. The frontend is built using React (Vite), while the backend is powered by a Ruby on Rails API, ensuring seamless communication and real-time updates.
-      - React (Vite), Ruby on Rails, JavaScript, HTML, CSS
-        <img src="/assets/img/teas.png" alt="the tea screenshot" style="width:100%;max-width:400px;margin-top:10px;" />
-  - title: <a href="https://github.com/nvnatasha/faule-tomaten">Faule Tomaten repo</a> <a href="https://faule-tomaten.onrender.com/">Faule Tomaten deployed</a>
-    description: 
-      - Paired project for users to view movies
-      - A frontend application where users can view movies being pulled from an external API. Users are able to 'upvote' or 'downvote' on movies, as well as click on a single movie to view its description and genres. 
-      - React (Vite)
-        <img src="/assets/img/Faule.png" alt="Faule Tomaten" style="width:100%;max-width:400px;margin-top:10px;" />
+- title: "<a href='https://github.com/nvnatasha/TheTeaFE' target='_blank'>The Tea (Front-End)</a> | <a href='https://github.com/nvnatasha/TheTea' target='_blank'>The Tea (Back-End)</a>"
+  description: |
+    <img src="/assets/img/teas.png" alt="The Tea screenshot" style="width:100%;max-width:400px;margin:10px 0;" />
+    <ul>
+      <li>- Admin portal for managing tea subscriptions</li>
+      <li>- Fullstack app with React frontend and Rails backend</li>
+      <li>- Admins can manage customers, subscriptions, and offerings</li>
+      <li>- Tech stack: React (Vite), Ruby on Rails, JavaScript, HTML, CSS</li>
+    </ul>
+
+- title: "<a href='https://github.com/nvnatasha/faule-tomaten' target='_blank'>Faule Tomaten Repo</a> | <a href='https://faule-tomaten.onrender.com/' target='_blank'>Deployed App</a>"
+  description: |
+    <img src="/assets/img/Faule.png" alt="Faule Tomaten screenshot" style="width:100%;max-width:400px;margin:10px 0;" />
+    <ul>
+      <li>- Paired project for users to browse and rate movies</li>
+      <li>- Frontend-only React app pulling from an external movie API</li>
+      <li>- Users can upvote/downvote and view details for each movie</li>
+      <li>- Tech stack: React (Vite)</li>
+    </ul>
