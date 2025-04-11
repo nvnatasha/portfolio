@@ -4,20 +4,24 @@ icon: "/assets/img/clipboard-list.svg"
 contents:
 - title: "<a href='https://github.com/nvnatasha/TheTeaFE'>The Tea (Front-End)</a> | <a href='https://github.com/nvnatasha/TheTea'>The Tea (Back-End)</a>"
   description: |
-    <img src="/assets/img/teas.png" alt="The Tea screenshot"/>
-    <ul>
-      <li>- Admin portal for managing tea subscriptions</li>
-      <li>- Fullstack app with React frontend and Rails backend</li>
-      <li>- Admins can manage customers, subscriptions, and offerings</li>
-      <li>- Tech stack: React (Vite), Ruby on Rails, JavaScript, HTML, CSS</li>
-    </ul>
+    <div>
+      <img src="./assets/img/teas.png" alt="The Tea screenshot"/>
+      <ul>
+        <li>- Admin portal for managing tea subscriptions</li>
+        <li>- Fullstack app with React frontend and Rails backend</li>
+        <li>- Admins can manage customers, subscriptions, and offerings</li>
+        <li>- Tech stack: React (Vite), Ruby on Rails, JavaScript, HTML, CSS</li>
+      </ul>
+    </div
 
 - title: "<a href='https://github.com/nvnatasha/faule-tomaten'>Faule Tomaten Repo</a> | <a href='https://faule-tomaten.onrender.com/'>Deployed App</a>"
   description: |
-    <img src="/assets/img/Faule.png" alt="Faule Tomaten screenshot"/>
-    <ul>
-      <li>- Paired project for users to browse and rate movies</li>
-      <li>- Frontend-only React app pulling from an external movie API</li>
-      <li>- Users can upvote/downvote and view details for each movie</li>
-      <li>- Tech stack: React (Vite)</li>
-    </ul>
+    <div>
+      <img src="./assets/img/Faule.png" alt="Faule Tomaten screenshot"/>
+      <ul>
+        <li>- Paired project for users to browse and rate movies</li>
+        <li>- Frontend-only React app pulling from an external movie API</li>
+        <li>- Users can upvote/downvote and view details for each movie</li>
+        <li>- Tech stack: React (Vite)</li>
+      </ul>
+    </div>
