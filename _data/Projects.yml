@@ -2,8 +2,15 @@ subject: Projects
 listing-order: 4
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "TheTea ([https://github.com/nvnatasha/TheTea](https://github.com/nvnatasha/TheTea))([https://github.com/nvnatasha/TheTeaFE](https://github.com/nvnatasha/TheTeaFE))"
+  - title: <a href="https://github.com/nvnatasha/TheTeaFE">The Tea (front-end)</a> <a href="https://github.com/nvnatasha/TheTea">The Tea (backend-end)</a>
     description: 
       - Admin Portal for Managing Tea Subscriptions
       - A fullstack web application that enables administrators to efficiently manage customers, subscriptions, and tea offerings for a tea subscription service. The frontend is built using React (Vite), while the backend is powered by a Ruby on Rails API, ensuring seamless communication and real-time updates.
-      - React (Vite), Ruby on Rails, JavaScript, HTML, CSS"
+      - React (Vite), Ruby on Rails, JavaScript, HTML, CSS
+        <img src="/assets/img/teas.png" alt="the tea screenshot" style="width:100%;max-width:400px;margin-top:10px;" />
+  - title: <a href="https://github.com/nvnatasha/faule-tomaten">Faule Tomaten repo</a> <a href="https://faule-tomaten.onrender.com/">Faule Tomaten deployed</a>
+    description: 
+      - Paired project for users to view movies
+      - A frontend application where users can view movies being pulled from an external API. Users are able to 'upvote' or 'downvote' on movies, as well as click on a single movie to view its description and genres. 
+      - React (Vite)
+        <img src="/assets/img/Faule.png" alt="Faule Tomaten" style="width:100%;max-width:400px;margin-top:10px;" />
