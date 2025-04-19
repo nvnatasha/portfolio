@@ -8,10 +8,10 @@ job: "Full-Stack Software Engineer"
 phone_number: 719-200-7797
 address: Texas
 email: nvasquez24@turing.edu
-linkedin_username: https://www.linkedin.com/in/natasha-vasquez/
-github_username: https://github.com/nvnatasha
+linkedin_username: natasha-vasquez
+github_username: nvnatasha
 instagram_username: vettechtash
-facebook_username: https://www.facebook.com/TashaMicha
+facebook_username: TashaMicha
 
 theme: jekyll-professional-resume
 
